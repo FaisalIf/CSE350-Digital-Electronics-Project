@@ -98,13 +98,6 @@ Unlike microcontroller-based systems, this fully hardware-based approach ensures
 
 ---
 
-## References
-
-1. Texas Instruments. (2003). _CD4017B CMOS Decade Counter/Divider_ Datasheet.
-2. Friendly Wire. (n.d.). Retrieved from: [https://www.friendlywire.com](https://www.friendlywire.com)
-
----
-
 ## Acknowledgment
 
 Special thanks to the **Friendly Wire** website for offering detailed guidance and educational resources that inspired and informed the development of this project.
